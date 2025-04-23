@@ -27,3 +27,6 @@ if st.button("Generate Password"):
         st.code(password)
     else:
         st.error("Please select at least one character type.")
+
+# Check out the output:
+# https://passwordgeneratorpythonproject-wyowzurdsh8u2tuy2fxl3c.streamlit.app/
